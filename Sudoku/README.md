@@ -1,4 +1,4 @@
-[彩色解題思路(含公式驗證)](https://github.com/CalvinWan0101/Sudoku/blob/master/Sudoku.pdf)
+[彩色解題思路(含公式驗證)](https://github.com/CalvinWan0101/Interesting/blob/master/Sudoku/Sudoku.pdf)
 
 先建立一個全域的int陣列當做map
 
